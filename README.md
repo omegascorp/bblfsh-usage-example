@@ -1,2 +1,1 @@
-# bblfsh-usage-example
-Bblfsh usage example
+# Bblfsh usage example
